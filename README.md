@@ -1,3 +1,3 @@
-# goit-js-hw-03
+# goit-js-hw-04
 
-It's my thirdth js hw !
+It's my fourth js hw !
